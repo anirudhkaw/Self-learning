@@ -11,13 +11,3 @@ elif Choice_of_operator== "-":
     print("Sub is :", sub_of_digit)
 else:
     print("Envalid input")
-
-
-
-
-
-
-
-
-
-
